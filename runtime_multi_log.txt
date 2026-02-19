@@ -1,0 +1,7 @@
+ticks=2
+amb_0_start=0
+amb_0_path_len=2
+amb_0_done=True
+amb_1_start=1
+amb_1_path_len=2
+amb_1_done=True

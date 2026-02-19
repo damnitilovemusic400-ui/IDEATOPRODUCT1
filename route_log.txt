@@ -1,0 +1,10 @@
+spawn_node_index=96
+spawn_coord=(463, 133)
+target_hospital_index=322
+target_coord=(49, 266)
+path_len_nodes=10
+path_nodes=[96, 624, 446, 810, 274, 94, 327, 1030, 429, 322]
+path_coords=[(463, 133), (84, 365), (506, 340), (0, 378), (498, 321), (65, 323), (120, 258), (36, 191), (509, 227), (49, 266)]
+weighted_cost=3438.360554297869
+hospital_meta_beds=193
+hospital_meta_specialty=0.0
